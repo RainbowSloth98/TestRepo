@@ -5,3 +5,5 @@ This change is not commited yet
 This is after merging 
 
 This will be another change on side. Shouldn't side be gone now?
+
+Here is another another change in side
