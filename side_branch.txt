@@ -4,8 +4,7 @@ This change is not commited yet
 
 This is after merging 
 
-This will be another change on side. Shouldn't side be gone now?
+Main is now doing something diferent too
 
-Here is another another change in side
+Another main contrib to side
 
-Final commit from side
