@@ -3,3 +3,5 @@ This is to test the side branch
 This change is not commited yet
 
 This is after merging 
+
+Main is now doing something diferent too
